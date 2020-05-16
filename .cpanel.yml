@@ -1,0 +1,17 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/user/public_html/
+    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp -R webfonts $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp about.html $DEPLOYPATH
+    - /bin/cp careers.html $DEPLOYPATH
+    - /bin/cp farm_cultivation.html $DEPLOYPATH
+    - /bin/cp favicon.ico $DEPLOYPATH
+    - /bin/cp export_and_commodities.html $DEPLOYPATH
+    - /bin/cp training_and_services.html $DEPLOYPATH
+    - /bin/cp consultancy_and_advisory.html $DEPLOYPATH
+    - /bin/cp contact.html $DEPLOYPATH
