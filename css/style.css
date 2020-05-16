@@ -282,7 +282,7 @@ a.request:nth-child(2) {
 /*--/banner-info--*/
 
 .slide {
-    background: url(../images/new/adb.jpeg) no-repeat center;
+    background: url(../images/new/poultry_layers.jpeg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -292,7 +292,7 @@ a.request:nth-child(2) {
 }
 
 .slide2 {
-    background: url(../images/new/bck3.jpeg) no-repeat center;
+    background: url(../images/new/rent_tractor.jpeg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -302,7 +302,7 @@ a.request:nth-child(2) {
 }
 
 .slide3 {
-    background: url(../images/3.jpg) no-repeat center;
+    background: url(../images/tradeline.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -748,7 +748,7 @@ h4.progress-tittle {
     padding:0;
 }
 .main-stats-inner-img,.main-stats-inner-img.two {
-    background: url(../images/n1.jpg) no-repeat center;
+    background: url(../images/tradeline_commodities.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
